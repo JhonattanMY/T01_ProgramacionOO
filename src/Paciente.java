@@ -2,7 +2,8 @@
 public class Paciente {
 
 	public Paciente() {
-		// TODO Auto-generated constructor stub
-	}
-
+	
+			System.out.println("Bienvenidos Wachos");
+	
+  }
 }
