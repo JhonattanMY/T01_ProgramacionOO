@@ -19,9 +19,9 @@ public class Practica_clase {
     	/*                   polimorfismo                     */
         
     	void ganacias(String horario, int quincena, int mensual) {
-    		  horario = "Nocturno"; 
-    		  quincena = 195;
-    	      mensual = 390;
-    	     int ganancia_anual = (quincena * 2) * 12;
+        horario = "Nocturno"; 
+        quincena = 195;
+        mensual = 390;
+        int ganancia_anual = (quincena * 2) * 12;
     	}
 }
