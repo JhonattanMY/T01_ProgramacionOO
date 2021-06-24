@@ -1,8 +1,5 @@
 
-public class Paciente {
+public class Paciente extends Persona {
 
-	public Paciente() {
-		// TODO Auto-generated constructor stub
-	}
-
+	String nombre;
 }

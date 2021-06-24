@@ -2,9 +2,9 @@
 public class Practica_clase {
          /*             Encapsulacion                   */
 	
-        private String Nombre_profesor= "Edison Cayambe" ;
+        private int codigo_prof= 120034 ;
         private int edad = 28;
-        private String asignatura= "Programacion";
+        private String estado_civil = "Casado";
         
         /*                Abtraccion                         */
         
