@@ -1,7 +1,7 @@
 
-public class Paciente {
+public class Persona {
 
-	public Paciente() {
+	public Persona() {
 		// TODO Auto-generated constructor stub
 	}
 
