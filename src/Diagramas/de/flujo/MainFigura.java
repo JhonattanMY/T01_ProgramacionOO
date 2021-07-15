@@ -11,7 +11,7 @@ public class MainFigura {
 	public static void main(String[] args) {
 
 		// 1) Ejercicio de repaso de las figuras
-        //con asteriscos.
+		// con asteriscos.
 
 		Scanner lee = new Scanner(System.in);
 		System.out.print("Ingrese el numero de filas: ");
