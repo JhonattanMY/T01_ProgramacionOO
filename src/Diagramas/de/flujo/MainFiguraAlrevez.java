@@ -3,7 +3,9 @@ package Diagramas.de.flujo;
 import java.util.Scanner;
 
 public class MainFiguraAlrevez {
-
+	
+	// Excelente trabajo :3 
+	
 	public MainFiguraAlrevez() {
 
 	}
