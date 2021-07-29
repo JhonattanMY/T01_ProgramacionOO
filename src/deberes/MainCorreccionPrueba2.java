@@ -1,4 +1,4 @@
-package DEBERES;
+package deberes;
 
 import java.util.Scanner;
 
@@ -12,10 +12,10 @@ public class MainCorreccionPrueba2 {
 
 		Scanner lee = new Scanner(System.in);
 
-		int SI = 0;
+		float SI = 0;
 		int SP = 0;
-		int PI = 0;
-		int CI = 0;
+		float PI = 0;
+		float CI = 0;
 
 		for (int i = 1; i != -1; i++) {
 

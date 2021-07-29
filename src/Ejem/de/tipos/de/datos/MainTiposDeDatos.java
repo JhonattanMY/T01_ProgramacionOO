@@ -7,8 +7,11 @@ public class MainTiposDeDatos {
 	}
 
 	public static void main(String[] args) {
+		
 
-		// LOS TIPOS DE DATOS
+		/* Fecha: 21/07/2021
+		 
+		 ---- TIPOS DE DATOS PRIMITIVOS ----  */
 
 		short CantidadEstudiante = 1000;
 		byte entradaCircuito = 15;
