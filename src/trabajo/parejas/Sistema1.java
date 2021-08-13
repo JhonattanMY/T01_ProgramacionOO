@@ -23,7 +23,6 @@ public class Sistema1 {
 		}
 	}
 
-	
 	public void metodoPago(String metodoPago) {
 
 		System.out.println("Metodo de pago: " + metodoPago);
