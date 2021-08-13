@@ -17,7 +17,7 @@ public class Productos {
 	}
 
 	public void MetodoPago(String MetodoPago) {
-		
+
 		System.out.println("Metodo de pago: " + MetodoPago);
 	}
 }
