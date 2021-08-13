@@ -1,17 +1,8 @@
 package trabajo.parejas;
-import java.util.Scanner;
 
 public class Productos {
-	Scanner lee = new Scanner(System.in);
 
-	public void seleccion() {
-
-		System.out.println("SELECCIONE PODUCTOS ");
-		System.out.println("1---> Pan");
-		System.out.println("2---> Fideos");
-		System.out.println("3---> Leche");
-		System.out.println("0---> Salir ");
-		int producto = lee.nextInt();
+	public void seleccion(int producto) {
 
 		if (producto == 1) {
 			System.out.println("Precio: 3$");
@@ -24,12 +15,9 @@ public class Productos {
 		}
 
 	}
-	
-	public void MetodoPago() {
-		
-		String MetodoPago = lee.next();
 
+	public void MetodoPago(String MetodoPago) {
+		
 		System.out.println("Metodo de pago: " + MetodoPago);
 	}
-
 }
