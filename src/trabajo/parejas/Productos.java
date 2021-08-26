@@ -1,6 +1,9 @@
 package trabajo.parejas;
 
+import java.util.Scanner;
+
 public class Productos {
+
 
 	public void seleccion(int producto) {
 

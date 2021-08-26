@@ -15,11 +15,12 @@ public class MainFactura {
 		System.out.println("0---> Salir ");
 		int Z = teclado.nextInt();
 
-		Productos imprimir = new Productos();
-
-		imprimir.seleccion(Z);
 		System.out.println("INGRESE METODO DE PAGO");
-		String pago = teclado.next();
+		String pago = teclado.nextLine();
+//
+//		Productos imprimir = new Productos();
+//		imprimir.seleccion(Z);
+
 		Productos imprimirMetodoPago = new Productos();
 		imprimirMetodoPago.MetodoPago(pago);
 	}
