@@ -104,7 +104,7 @@ public class MainTablero {
 				System.out.print(tablero[i][j]);
 				if (j != tablero[i].length - 1)
 					System.out.print("\t"); // -->\t : SIGNIFICA QUE HAY UN ESPACIO
-			} // (EQUIVALENTE A UN "TAB" DEL TECLADO)
+			}                               // (EQUIVALENTE A UN "TAB" DEL TECLADO)
 			System.out.println(" ");
 		}
 
